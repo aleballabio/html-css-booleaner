@@ -2,7 +2,6 @@ header {
     background-image: url(../img/pattern.png);
     background-color: rgba(78,160,255,255);
     background-size: 365px;
-    width: 62%;
 }
 
 .logo {
@@ -30,4 +29,18 @@ a {
 
 .intestazione {
     font-size: 12px;
+}
+
+.corpocentrale {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titolitabella {
+    background-color: #20a9e5;
+    color: white;
+}
+
+table {
+    width: 100%;
+    height: auto;
 }
