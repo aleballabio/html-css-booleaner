@@ -43,4 +43,14 @@ a {
 table {
     width: 100%;
     height: auto;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.rigacolorata {
+    background-color: #b1e5f2;
+}
+
+.terzacolonna {
+    width: 50%;
 }
